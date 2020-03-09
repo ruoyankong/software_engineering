@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"voting_system","l":"Audit"},{"p":"voting_system","l":"Candidate"},{"p":"voting_system","l":"Election"},{"p":"voting_system","l":"Menu"},{"p":"voting_system","l":"Party"},{"p":"voting_system","l":"Statistics"}]
